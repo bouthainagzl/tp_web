@@ -1,0 +1,15 @@
+header a{
+    color: blue;
+}
+#end-devices a{
+    color: #13bf10;
+}
+#intermediate-devices a{
+    color: #ff0000;
+}
+ol>li{
+    color:blue;
+}
+code{
+    color:blue;
+}
